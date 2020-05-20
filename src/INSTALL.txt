@@ -1,0 +1,7 @@
+Steps:
+1. opam install csv
+2. opam install gnuplot 
+3. opam install num
+4. opam install ocamlgraph
+5. make build
+6. make run

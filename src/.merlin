@@ -1,0 +1,11 @@
+B _build
+PKG oUnit
+PKG ANSITerminal 
+PKG csv
+PKG ocamlgraph
+PKG graphics
+PKG gnuplot
+PKG base
+PKG num
+PKG str
+
